@@ -35,8 +35,6 @@
   (fp_line (start 10.155722 11.67987) (end -10.144431 11.67987) (layer "F.CrtYd") (width 0.05))
   (fp_arc (start -10.144431 11.67987) (mid -12.149106 10.857313) (end -12.971383 8.852523) (layer "F.CrtYd") (width 0.05))
   (fp_rect (start -12.987612 -9.186816) (end 10.532388 -5.986816) (layer "B.CrtYd") (width 0.05) (fill none))
-  (fp_rect (start 7.617388 6.418184) (end 12.617388 11.418184) (layer "B.CrtYd") (width 0.05) (fill none))
-  (fp_rect (start -12.602612 6.418184) (end -7.602612 11.418184) (layer "B.CrtYd") (width 0.05) (fill none))
   (pad "1" thru_hole rect (at -11.387612 -7.586816) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (remove_unused_layers no))
   (pad "2" thru_hole oval (at -8.847612 -7.586816) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (remove_unused_layers no))
   (pad "3" thru_hole oval (at -6.307612 -7.586816) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (remove_unused_layers no))
@@ -46,8 +44,6 @@
   (pad "7" thru_hole oval (at 3.852388 -7.586816) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (remove_unused_layers no))
   (pad "8" thru_hole oval (at 6.392388 -7.586816) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (remove_unused_layers no))
   (pad "9" thru_hole oval (at 8.932388 -7.586816) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (remove_unused_layers no))
-  (pad "H2" np_thru_hole circle (at 10.117388 8.918184) (size 3.5 3.5) (drill 2.5) (layers "*.Cu" "*.Mask") (remove_unused_layers no))
-  (pad "H1" np_thru_hole circle (at -10.102612 8.918184) (size 3.5 3.5) (drill 2.5) (layers "*.Cu" "*.Mask") (remove_unused_layers no))
   (model "${KICAD_PCBCUPID_3DMODEL_DIR}/GM003-MicroSD/GM003-MicroSD.step"
     (offset (xyz 0 0 2.5))
     (scale (xyz 1 1 1))
