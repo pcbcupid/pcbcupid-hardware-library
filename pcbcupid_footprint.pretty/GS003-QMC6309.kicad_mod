@@ -8,7 +8,6 @@
   (duplicate_pad_numbers_are_jumpers no)
   (property "Reference" "REF**" (at 0 2.5 0) (layer "F.SilkS")    (effects (font (size 1 1) (thickness 0.15))))
   (property "Value" "GS003-QMC6309" (at 0 0 0) (layer "F.Fab")    (effects (font (size 1 1) (thickness 0.15))))
-  (fp_text user "GS003-QMC6309" (at 0 -2.5 0) (layer "F.SilkS")    (effects (font (size 1.5 1.5) (thickness 0.15))))
   (fp_rect (start -12.728796 -11.420865) (end 12.728796 11.420865) (layer "F.Fab") (width 0.1) (fill no))
   (fp_arc (start -12.728796 -8.83966) (mid -11.943773 -10.674598) (end -10.092734 -11.420865) (layer "F.SilkS") (width 0.12))
   (fp_arc (start -12.728796 -8.83966) (mid -11.943773 -10.674598) (end -10.092734 -11.420865) (layer "F.Fab") (width 0.12))
